@@ -2,7 +2,7 @@
 <img align="right" src="https://raw.githubusercontent.com/eu-larissasouza/eu-larissasouza/main/Vetor%20Working%20Woman%20Programmer.png" alt="Vetor Working Woman Programmer">
 <p>👋🏼 Muito prazer!! Meu nome é <strong>Larissa</strong>, tenho 17 anos e sou estudante de Informática. Desde que iniciei o curso técnico, em 2019, venho aprendendo diversas linguagens de programação, algumas pelas disciplinas curriculares, e outras por curiosidade. Assim me interessei fortemente pelo desenvolvimento front-end. Meu objetivo é ingressar no mercado de trabalho como Desenvolvedora de Software futuramente.</p>
 
-<h3 align = "left">📲 Venha me conhecer mais </h3>
+<h3 align = "left">📱 Venha me conhecer mais </h3>
 <hr>
 <p align = "center">
     <a style="text-decoration: none;" href = "https://www.linkedin.com/in/larissa-a-souza/" target = "_blank"> 
@@ -17,12 +17,6 @@
 <p align = "center"> 
     <a style="text-decoration: none;" href="https://www.cprogramming.com/" target="_blank"> 
     <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg "alt =" C "width =" 40 "height =" 40 "/> 
-    </a> 
-    <a style="text-decoration: none;" href="https://www.w3schools.com/css/" target="_blank"> 
-        <img  src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"alt =" css3 "width =" 40 "height =" 40 "/> 
-    </a> 
-    <a style="text-decoration: none;" href ="https://www.w3.org/html/ "target ="_blank "> 
-        <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg "alt =" html5 "width =" 40 "height =" 40 "/> 
     </a> 
     <a style="text-decoration: none;" href="https://www.mysql.com/" target="_blank"> 
         <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg "alt =" mysql "width =" 40 "height =" 40 "/> 
@@ -48,11 +42,11 @@
         <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg "alt =" javascript "width =" 40 "height =" 40 "/> 
     </a> 
     <a style="text-decoration: none;" href ="http://lite.acad.univali.br/portugol/"target ="_blank "> 
-        <img src ="https://cdn.discordapp.com/attachments/766368182503997455/850443928138416148/Opera_Instantaneo_2021-06-04_153417_www.google.com.png "alt =" Portugol "width =" 40 "height =" 40 "/> 
+        <img src ="http://lite.acad.univali.br/portugol/assets/img/logo.png "alt =" Portugol "height =" 40 "/> 
     </a> 
 </p>
 
-<h3 align = "left">👩🏻‍💻 Informações GitHub </h3>
+<h3 align = "left">💻 Informações do meu GitHub </h3>
 <hr>
 <p align = "center">
     <a href="https://github.com/eu-larissasouza">
