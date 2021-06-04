@@ -2,19 +2,6 @@
 <img align="right" src="https://raw.githubusercontent.com/eu-larissasouza/eu-larissasouza/main/Vetor%20Working%20Woman%20Programmer.png" alt="Vetor Working Woman Programmer">
 <p>👋🏼 Muito prazer!! Meu nome é <strong>Larissa</strong>, tenho 17 anos e sou estudante de Informática. Desde que iniciei o curso técnico, em 2019, venho aprendendo diversas linguagens de programação, algumas pelas disciplinas curriculares, e outras por curiosidade. Assim me interessei fortemente pelo desenvolvimento front-end. Meu objetivo é ingressar no mercado de trabalho como Desenvolvedora de Software futuramente.</p>
 
-<h1 align = "center">🤍 Seja bem vindo(a) ao meu GitHub 🤍</h1>
-<div class="avatar">
-    <img align="right" src="https://raw.githubusercontent.com/eu-larissasouza/eu-larissasouza/main/Vetor%20Working%20Woman%20Programmer.png" alt="Vetor Working Woman Programmer" width="1080" height="1386"/>
-</div>
-<p>👋🏼 Muito prazer!! Meu nome é <strong>Larissa</strong>, tenho 17 anos e sou estudante de Informática. Desde que iniciei o curso técnico, em 2019, venho aprendendo diversas linguagens de programação, algumas pelas disciplinas curriculares, e outras por curiosidade. Assim me interessei fortemente pelo desenvolvimento front-end. Meu objetivo é ingressar no mercado de trabalho como Desenvolvedora de Software futuramente.</p>
-
-.avatar img {
-    max-width:500px;
-    max-height:641px;
-    width: auto;
-    height: auto;
-}
-
 <h3 align = "left">📲 Venha me conhecer mais </h3>
 <hr>
 <p align = "center">
