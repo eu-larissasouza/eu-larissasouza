@@ -38,18 +38,21 @@
     <a style="text-decoration: none;" href="https://www.java.com" target="_blank"> 
         <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg "alt =" java "width =" 40 "height =" 40 "/> 
     </a> 
+        <a style="text-decoration: none;" href ="https://www.w3.org/html/ "target ="_blank "> 
+        <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg "alt =" html5 "width =" 40 "height =" 40 "/> 
+    </a>
     <a style="text-decoration: none;" href="https://www.w3schools.com/css/" target="_blank"> 
         <img  src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"alt =" css3 "width =" 40 "height =" 40 "/> 
-    </a> 
-    <a style="text-decoration: none;" href ="https://www.w3.org/html/ "target ="_blank "> 
-        <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg "alt =" html5 "width =" 40 "height =" 40 "/> 
     </a> 
     <a style="text-decoration: none;" href="https://desenvolvedor.mozilla.org/en-US/docs/Web/JavaScript "target ="_blank "> 
         <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg "alt =" javascript "width =" 40 "height =" 40 "/> 
     </a> 
+    <a style="text-decoration: none;" href ="http://lite.acad.univali.br/portugol/"target ="_blank "> 
+        <img src ="https://cdn.discordapp.com/attachments/766368182503997455/850443928138416148/Opera_Instantaneo_2021-06-04_153417_www.google.com.png "alt =" Portugol "width =" 40 "height =" 40 "/> 
+    </a> 
 </p>
 
-<h3 align = "left">👩🏻‍💻 Meu GitHub </h3>
+<h3 align = "left">👩🏻‍💻 Informações GitHub </h3>
 <hr>
 <p align = "center">
     <a href="https://github.com/eu-larissasouza">
