@@ -11,7 +11,7 @@
     <a style="text-decoration: none;" href = "https://linkedin.com/in/pâmelacarvalho" target = "_blank"> 
         <img align = "center" src = "https://image.flaticon.com/icons/png/512/174/174857.png"alt =" larissa-a-souza "height =" 40 "width =" 40 "/> 
     </a>
-    <a href="https://instagram.com/_larissa.a.souza" target="_blank"> <img align = "center" src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"alt =" _larissa.a.souza "height =" 40 "width =" 40 "/>
+    <a href="https://instagram.com/_larissa.a.souza" target="_blank"> <img align = "center" src = "https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg"alt =" _larissa.a.souza "height =" 40 "width =" 40 "/>
     </a>
 </p>
 
@@ -50,7 +50,7 @@
 </p>
 
 <h3 align = "left">👩🏻‍💻 Meu GitHub </h3>
-<hr>s
+<hr>
 <p align = "center">
     <a href="https://github.com/eu-larissasouza">
         <img align="center" alt="Larissa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eu-larissasouza&show_icons=true&theme=radical" />
