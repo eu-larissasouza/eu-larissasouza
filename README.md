@@ -48,8 +48,6 @@
     <a style="text-decoration: none;" href="https://nodejs.org/en/ "target ="_blank "> 
         <img src ="https://bn1304files.storage.live.com/y4mOCTfsSjeR5fWYfzvBJylZv8Fo_mQ0V7bKY7eqLO3cAvwHSSNQXA51VfGsQmZTmvwJGrdeF7kgHnyi3t29V-T5LeI2tZu6gQnEMmVVFDk55eVFu-7erpmSJBqd82yVCAjJmkervUzDAZBKQJyxFNWUuqwfT8D02GaDn0DXMkAo961wlh7te1xnG1V1BpriloB?width=40&height=40&cropmode=none "alt =" node js "width =" 40 "height =" 40 "/> 
     </a> 
-    <img src="https://bn1304files.storage.live.com/y4mOCTfsSjeR5fWYfzvBJylZv8Fo_mQ0V7bKY7eqLO3cAvwHSSNQXA51VfGsQmZTmvwJGrdeF7kgHnyi3t29V-T5LeI2tZu6gQnEMmVVFDk55eVFu-7erpmSJBqd82yVCAjJmkervUzDAZBKQJyxFNWUuqwfT8D02GaDn0DXMkAo961wlh7te1xnG1V1BpriloB?width=40&height=40&cropmode=none" width="40" height="40" />
-    
 </p>
 
 <h3 align = "left">💻 Informações do meu GitHub </h3>
@@ -63,4 +61,4 @@
     </a>
 </p>
 
-![Snake animation](https://github.com/eu-larissasouza/eu-larissasouza/blob/main/.github/workflows/cobrinha.yml)
+![Snake animation](https://github.com/eu-larissasouza/eu-larissasouza/blob/output/github-contribution-grid-snake.svg)
