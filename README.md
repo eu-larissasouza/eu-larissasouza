@@ -63,4 +63,4 @@
     </a>
 </p>
 
-![Snake animation](https://github.com/eu-larissasouza/eu-larissasouza/blob/d28e1e1a0a733510041865af34780f48bf67d8eb/.github/workflows/cobrinha.yml)
+![Snake animation](https://github.com/eu-larissasouza/eu-larissasouza/blob/main/.github/workflows/cobrinha.yml)
