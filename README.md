@@ -1,6 +1,6 @@
 <h1 align = "center">🤍 Seja bem vindo(a) ao meu GitHub 🤍</h1>
 <img align="right" src="https://raw.githubusercontent.com/eu-larissasouza/eu-larissasouza/main/Vetor%20Working%20Woman%20Programmer.png" alt="Vetor Working Woman Programmer">
-<p>👋🏼 Muito prazer!! Meu nome é <strong>Larissa</strong>, tenho 17 anos e sou estudante de Informática. Desde que iniciei o curso técnico, em 2019, venho aprendendo diversas linguagens de programação, algumas pelas disciplinas curriculares, e outras por curiosidade. Assim me interessei fortemente pelo desenvolvimento front-end. Meu objetivo é ingressar no mercado de trabalho como Desenvolvedora de Software futuramente.</p>
+<p> Muito prazer!! Meu nome é <strong>Larissa Souza</strong>, tenho 17 anos e sou atualmente sou estudante do curso e Informática. Sinceramente, a escolha que Desde que iniciei o curso técnico, em 2019, venho aprendendo diversas linguagens de programação, algumas pelas disciplinas curriculares, e outras por curiosidade. Assim me interessei fortemente pelo desenvolvimento front-end. Meu objetivo é ingressar no mercado de trabalho como Desenvolvedora de Software futuramente.</p>
 
 <h3 align = "left">📱 Venha me conhecer mais </h3>
 <hr>
@@ -38,12 +38,13 @@
     <a style="text-decoration: none;" href="https://www.w3schools.com/css/" target="_blank"> 
         <img  src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"alt =" css3 "width =" 40 "height =" 40 "/> 
     </a> 
-    <a style="text-decoration: none;" href="https://desenvolvedor.mozilla.org/en-US/docs/Web/JavaScript "target ="_blank "> 
+    <a style="text-decoration: none;" href="https://www.w3schools.com/js/ "target ="_blank "> 
         <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg "alt =" javascript "width =" 40 "height =" 40 "/> 
     </a> 
-    <a style="text-decoration: none;" href ="http://lite.acad.univali.br/portugol/"target ="_blank "> 
-        <img src ="http://lite.acad.univali.br/portugol/assets/img/logo.png "alt =" Portugol "height =" 40 "/> 
+    <a style="text-decoration: none;" href="http://lite.acad.univali.br/portugol/ "target ="_blank "> 
+        <img src ="https://bn1304files.storage.live.com/y4mRqNYbNfL-2HyWnKA6yeIIph4nrasZlp6PikVqW6a5UE1dW6Z_bPod0HzjFQUjRHyaZCGKr9zUXDzcK2d0TGFTpK6MdUrOLTqs-IYVRi4PF6TZYLtqEURvZ0Uub6I3s3wi6hpeSqjis9HNxtus_cjDrpSb3gbQDjv_nK8QGfFIZ03I2eI6PhD9Pt6pzLwor5g?width=40&height=40&cropmode=none "alt =" Portugol "width =" 40 "height =" 40 "/> 
     </a> 
+    
 </p>
 
 <h3 align = "left">💻 Informações do meu GitHub </h3>
