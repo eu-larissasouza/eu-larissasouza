@@ -6,11 +6,11 @@
 <hr>
 <p align = "center">
     <a style="text-decoration: none;" href = "https://www.linkedin.com/in/larissa-a-souza/" target = "_blank"> 
-        <img align = "center" src = "https://raw.githubusercontent.com/eu-larissasouza/eu-larissasouza/49ec46366d0342b77cf721efc7ec878d4a2a3008/icon/linkedin-original.svg"alt =" larissa-a-souza "height =" 40 "width =" 40 "/> 
+        <img align = "center" src = "https://raw.githubusercontent.com/eu-larissasouza/eu-larissasouza/0be3aba39194218a16d9af295006b55839465290/icon/linkedin-original.svg"alt =" larissa-a-souza "height =" 40 "width =" 40 "/> 
     </a>
     <a href="https://instagram.com/_larissa.a.souza" target="_blank"> <img align = "center" src = "https://raw.githubusercontent.com/eu-larissasouza/eu-larissasouza/d3fdcb10a3af1651b21c62b3a7307aa0d0921b3d/icon/instagram-original.svg"alt =" _larissa.a.souza "height =" 40 "width =" 40 "/>
     </a>
-    <a href = "mailto: larissa.alves.souza@outlook.com" target="_blank"> <img align = "center" src = "https://raw.githubusercontent.com/eu-larissasouza/eu-larissasouza/49ec46366d0342b77cf721efc7ec878d4a2a3008/icon/outlook-original.svg"alt =" Larissa Souza "height =" 40 "width =" 40 "/>
+    <a href = "mailto: larissa.alves.souza@outlook.com" target="_blank"> <img align = "center" src = "https://raw.githubusercontent.com/eu-larissasouza/eu-larissasouza/0be3aba39194218a16d9af295006b55839465290/icon/outlook-original.svg "alt =" Larissa Souza "height =" 40 "width =" 40 "/>
     </a>
     <a href = "https://app.rocketseat.com.br/me/larissa-a-souza" target="_blank"> <img align = "center" src = "https://raw.githubusercontent.com/eu-larissasouza/eu-larissasouza/49ec46366d0342b77cf721efc7ec878d4a2a3008/icon/rocketseat-original.svg"alt =" Larissa Souza "height =" 40 "width =" 40 "/>
     </a>
@@ -46,7 +46,7 @@
         <img src ="https://raw.githubusercontent.com/eu-larissasouza/eu-larissasouza/d3fdcb10a3af1651b21c62b3a7307aa0d0921b3d/icon/javascript-original.svg "alt =" javascript "width =" 40 "height =" 40 "/> 
     </a>
     <a style="text-decoration: none;" href="https://nodejs.org/en/ "target ="_blank "> 
-        <img src ="https://raw.githubusercontent.com/eu-larissasouza/eu-larissasouza/49ec46366d0342b77cf721efc7ec878d4a2a3008/icon/nodejs-original.svg "alt =" nodejs "width =" 40 "height =" 40 "/> 
+        <img src ="https://raw.githubusercontent.com/eu-larissasouza/eu-larissasouza/0be3aba39194218a16d9af295006b55839465290/icon/nodejs-original.svg "alt =" nodejs "width =" 40 "height =" 40 "/> 
     </a> 
 </p>
 
