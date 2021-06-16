@@ -6,7 +6,7 @@
 <hr>
 <p align = "center">
     <a style="text-decoration: none;" href = "https://www.linkedin.com/in/larissa-a-souza/" target = "_blank"> 
-        <img align = "center" src = "https://raw.githubusercontent.com/eu-larissasouza/eu-larissasouza/2416e793b3026f9021fb5ea8d3fcbc162334fe59/icon/linkedin-original.svg"alt =" larissa-a-souza "height =" 40 "width =" 40 "/> 
+        <img align = "center" src = "https://raw.githubusercontent.com/eu-larissasouza/eu-larissasouza/77e50fdc00aaa1ce22e1e77d961cd5561303c827/icon/linkedin-original.svg"alt =" larissa-a-souza "height =" 40 "width =" 40 "/> 
     </a>
     <a href="https://instagram.com/_larissa.a.souza" target="_blank"> <img align = "center" src = "https://raw.githubusercontent.com/eu-larissasouza/eu-larissasouza/d3fdcb10a3af1651b21c62b3a7307aa0d0921b3d/icon/instagram-original.svg"alt =" _larissa.a.souza "height =" 40 "width =" 40 "/>
     </a>
