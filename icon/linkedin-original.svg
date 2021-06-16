@@ -11,7 +11,6 @@
 <rect x="0" y="0" width="90" height="89.999999" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
 <rect x="0" y="0" width="90" height="89.999999" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
 <rect x="0" y="0" width="90" height="89.999999" style="fill:rgb(100%,100%,100%);fill-opacity:1;stroke:none;"/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 3.75 3.75 L 86.414062 3.75 L 86.414062 86.414062 L 3.75 86.414062 Z M 3.75 3.75 "/>
 <use xlink:href="#image6" mask="url(#mask0)" transform="matrix(0.195228,0,0,0.195228,0.0000005,0.000002)"/>
 </g>
 </svg>
