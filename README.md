@@ -6,47 +6,47 @@
 <hr>
 <p align = "center">
     <a style="text-decoration: none;" href = "https://www.linkedin.com/in/larissa-a-souza/" target = "_blank"> 
-        <img align = "center" src = "https://image.flaticon.com/icons/png/512/174/174857.png"alt =" larissa-a-souza "height =" 40 "width =" 40 "/> 
+        <img align = "center" src = "https://raw.githubusercontent.com/eu-larissasouza/eu-larissasouza/49ec46366d0342b77cf721efc7ec878d4a2a3008/icon/linkedin-original.svg"alt =" larissa-a-souza "height =" 40 "width =" 40 "/> 
     </a>
-    <a href="https://instagram.com/_larissa.a.souza" target="_blank"> <img align = "center" src = "https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg"alt =" _larissa.a.souza "height =" 40 "width =" 40 "/>
+    <a href="https://instagram.com/_larissa.a.souza" target="_blank"> <img align = "center" src = "https://raw.githubusercontent.com/eu-larissasouza/eu-larissasouza/d3fdcb10a3af1651b21c62b3a7307aa0d0921b3d/icon/instagram-original.svg"alt =" _larissa.a.souza "height =" 40 "width =" 40 "/>
     </a>
-    <a href = "mailto: larissa.alves.souza@outlook.com" target="_blank"> <img align = "center" src = "https://bn1304files.storage.live.com/y4mLhwpm5AEqV-YNVbdDNgYkd3PgQAIvazXEHevMf8bhLvRrfNqS6YUx4nbD_1X5hjPaRTJ_rD7DcGis9C-WgUwsmcz4O2VDGLGMhMIl9nATKt0wZGAkcG9ktWiEuH_7gk1jDTcmkaxEQcU9rTsRoUxVMOc2G8b6dpY92-wBlbYqhNJ9qPt3vd9a3hJXFQ2XvCl?width=40&height=40&cropmode=none"alt =" Larissa Souza "height =" 40 "width =" 40 "/>
+    <a href = "mailto: larissa.alves.souza@outlook.com" target="_blank"> <img align = "center" src = "https://raw.githubusercontent.com/eu-larissasouza/eu-larissasouza/49ec46366d0342b77cf721efc7ec878d4a2a3008/icon/outlook-original.svg"alt =" Larissa Souza "height =" 40 "width =" 40 "/>
+    </a>
+    <a href = "https://app.rocketseat.com.br/me/larissa-a-souza" target="_blank"> <img align = "center" src = "https://raw.githubusercontent.com/eu-larissasouza/eu-larissasouza/49ec46366d0342b77cf721efc7ec878d4a2a3008/icon/rocketseat-original.svg"alt =" Larissa Souza "height =" 40 "width =" 40 "/>
+    </a>
 </p>
 
 <h3 align = "left">⚙️ Skills </h3>
 <hr>
 <p align = "center"> 
     <a style="text-decoration: none;" href="https://www.cprogramming.com/" target="_blank"> 
-    <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg "alt =" C "width =" 40 "height =" 40 "/> 
+    <img src = "https://raw.githubusercontent.com/eu-larissasouza/eu-larissasouza/d3fdcb10a3af1651b21c62b3a7307aa0d0921b3d/icon/c-original.svg "alt =" C "width =" 40 "height =" 40 "/> 
     </a> 
     <a style="text-decoration: none;" href="https://www.mysql.com/" target="_blank"> 
-        <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg "alt =" mysql "width =" 40 "height =" 40 "/> 
+        <img src ="https://raw.githubusercontent.com/eu-larissasouza/eu-larissasouza/d3fdcb10a3af1651b21c62b3a7307aa0d0921b3d/icon/mysql-original-wordmark.svg "alt =" mysql "width =" 40 "height =" 40 "/> 
     </a> 
 </p>
 
 <h3 align = "left">📚 Skills em desenvolvimento </h3>
 <hr>
 <p align = "center">
-    <a style="text-decoration: none;" href="http://lite.acad.univali.br/portugol/ "target ="_blank "> 
-        <img src ="https://bn1304files.storage.live.com/y4mRqNYbNfL-2HyWnKA6yeIIph4nrasZlp6PikVqW6a5UE1dW6Z_bPod0HzjFQUjRHyaZCGKr9zUXDzcK2d0TGFTpK6MdUrOLTqs-IYVRi4PF6TZYLtqEURvZ0Uub6I3s3wi6hpeSqjis9HNxtus_cjDrpSb3gbQDjv_nK8QGfFIZ03I2eI6PhD9Pt6pzLwor5g?width=40&height=40&cropmode=none "alt =" Portugol "width =" 40 "height =" 40 "/> 
-    </a> 
     <a style="text-decoration: none;" href = "https://www.w3schools.com/cs/" target = "_blank"> 
-        <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg "alt =" csharp "largura =" 40 "height = "40" /> 
+        <img src = "https://raw.githubusercontent.com/eu-larissasouza/eu-larissasouza/d3fdcb10a3af1651b21c62b3a7307aa0d0921b3d/icon/csharp-original.svg "alt =" csharp "largura =" 40 "height = "40" /> 
     </a> 
     <a style="text-decoration: none;" href="https://www.java.com" target="_blank"> 
-        <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg "alt =" java "width =" 40 "height =" 40 "/> 
+        <img src ="https://raw.githubusercontent.com/eu-larissasouza/eu-larissasouza/d3fdcb10a3af1651b21c62b3a7307aa0d0921b3d/icon/java-original.svg "alt =" java "width =" 40 "height =" 40 "/> 
     </a> 
         <a style="text-decoration: none;" href ="https://www.w3.org/html/ "target ="_blank "> 
-        <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg "alt =" html5 "width =" 40 "height =" 40 "/> 
+        <img src ="https://raw.githubusercontent.com/eu-larissasouza/eu-larissasouza/d3fdcb10a3af1651b21c62b3a7307aa0d0921b3d/icon/html5-original-wordmark.svg "alt =" html5 "width =" 40 "height =" 40 "/> 
     </a>
     <a style="text-decoration: none;" href="https://www.w3schools.com/css/" target="_blank"> 
-        <img  src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"alt =" css3 "width =" 40 "height =" 40 "/> 
+        <img  src = "https://raw.githubusercontent.com/eu-larissasouza/eu-larissasouza/d3fdcb10a3af1651b21c62b3a7307aa0d0921b3d/icon/css3-original-wordmark.svg"alt =" css3 "width =" 40 "height =" 40 "/> 
     </a> 
     <a style="text-decoration: none;" href="https://www.w3schools.com/js/ "target ="_blank "> 
-        <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg "alt =" javascript "width =" 40 "height =" 40 "/> 
+        <img src ="https://raw.githubusercontent.com/eu-larissasouza/eu-larissasouza/d3fdcb10a3af1651b21c62b3a7307aa0d0921b3d/icon/javascript-original.svg "alt =" javascript "width =" 40 "height =" 40 "/> 
     </a>
     <a style="text-decoration: none;" href="https://nodejs.org/en/ "target ="_blank "> 
-        <img src ="https://bn1304files.storage.live.com/y4mOCTfsSjeR5fWYfzvBJylZv8Fo_mQ0V7bKY7eqLO3cAvwHSSNQXA51VfGsQmZTmvwJGrdeF7kgHnyi3t29V-T5LeI2tZu6gQnEMmVVFDk55eVFu-7erpmSJBqd82yVCAjJmkervUzDAZBKQJyxFNWUuqwfT8D02GaDn0DXMkAo961wlh7te1xnG1V1BpriloB?width=40&height=40&cropmode=none "alt =" node js "width =" 40 "height =" 40 "/> 
+        <img src ="https://raw.githubusercontent.com/eu-larissasouza/eu-larissasouza/49ec46366d0342b77cf721efc7ec878d4a2a3008/icon/nodejs-original.svg "alt =" nodejs "width =" 40 "height =" 40 "/> 
     </a> 
 </p>
 
