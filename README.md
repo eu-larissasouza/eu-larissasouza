@@ -54,10 +54,10 @@
 <hr>
 <p align = "center">
     <a href="https://github.com/eu-larissasouza">
-        <img align="center" alt="Larissa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eu-larissasouza&show_icons=true&theme=radical" />
+        <img align="center" alt="Larissa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eu-larissasouza&show_icons=true&theme=tokyonight" />
     </a>
     <a href="https://github.com/eu-larissasouza">
-        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=eu-larissasouza&theme=radical" />
+        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=eu-larissasouza&theme=tokyonight" />
     </a>
 </p>
 
