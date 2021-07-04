@@ -25,7 +25,13 @@
     </a> 
     <a style="text-decoration: none;" href="https://www.mysql.com/" target="_blank"> 
         <img src ="https://raw.githubusercontent.com/eu-larissasouza/eu-larissasouza/d3fdcb10a3af1651b21c62b3a7307aa0d0921b3d/icon/mysql-original-wordmark.svg "alt =" mysql "width =" 40 "height =" 40 "/> 
+    </a>
+    <a style="text-decoration: none;" href="https://www.mysql.com/" target="_blank"> 
+        <img src ="https://raw.githubusercontent.com/eu-larissasouza/eu-larissasouza/main/icon/adobexd-original.svg "alt =" adobexd "width =" 40 "height =" 40 "/> 
     </a> 
+    <a style="text-decoration: none;" href="https://www.mysql.com/" target="_blank"> 
+        <img src ="https://raw.githubusercontent.com/eu-larissasouza/eu-larissasouza/main/icon/figma-original.svg "alt =" figma "width =" 40 "height =" 40 "/> 
+    </a>  
 </p>
 
 <h3 align = "left">📚 Skills em desenvolvimento </h3>
@@ -46,6 +52,9 @@
     <a style="text-decoration: none;" href="https://www.w3schools.com/js/ "target ="_blank "> 
         <img src ="https://raw.githubusercontent.com/eu-larissasouza/eu-larissasouza/d3fdcb10a3af1651b21c62b3a7307aa0d0921b3d/icon/javascript-original.svg "alt =" javascript "width =" 40 "height =" 40 "/> 
     </a>
+    <a style="text-decoration: none;" href="https://nodejs.org/en/ "target ="_blank "> 
+        <img src ="https://raw.githubusercontent.com/eu-larissasouza/eu-larissasouza/main/icon/typescript-original.svg "alt =" typescript "width =" 40 "height =" 40 "/> 
+    </a> 
     <a style="text-decoration: none;" href="https://nodejs.org/en/ "target ="_blank "> 
         <img src ="https://raw.githubusercontent.com/eu-larissasouza/eu-larissasouza/0be3aba39194218a16d9af295006b55839465290/icon/nodejs-original.svg "alt =" nodejs "width =" 40 "height =" 40 "/> 
     </a> 
