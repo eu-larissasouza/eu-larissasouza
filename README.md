@@ -37,10 +37,10 @@
 ## 💻 Minha Atividade
 <p align = "center">
     <a href="https://github.com/eu-larissasouza">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissasouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=larissasouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     </a>
     <a href="https://github.com/eu-larissasouza">
-        <img height="180em"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=eu-larissasouza&theme=radical" />
+        <img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eu-larissasouza&hide=html&layout=compact&theme=radical" />
     </a>
 </p>
 
