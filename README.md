@@ -40,7 +40,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=larissasouza&theme=radical"/>
     </a>
     <a href="https://github.com/eu-larissasouza">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eu-larissasouza&hide=html&layout=compact&theme=radical" />
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=eu-larissasouza&theme=radical" />
     </a>
 </p>
 
