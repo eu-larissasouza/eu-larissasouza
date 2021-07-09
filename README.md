@@ -35,13 +35,10 @@
 ## 💻 Minha Atividade
 <p align = "center">
     <a href="https://github.com/eu-larissasouza">
-        <img src="https://github-readme-stats.vercel.app/api?username=eu-larissasouza&show_icons=true&theme=radical " align="left"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=eu-larissasouza&show_icons=true&theme=radical " align="center"/>
     </a>
     <a href="https://github.com/eu-larissasouza">
         <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=eu-larissasouza&theme=radical" align="center"/>
-    </a>
-  <a href="https://github.com/eu-larissasouza">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=eu-larissasouza&theme=radical" align="left"/>
     </a>
 </p>
 
