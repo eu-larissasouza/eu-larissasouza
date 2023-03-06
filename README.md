@@ -1,8 +1,8 @@
 ## 🤍 Seja bem vindo(a) ao meu GitHub 🤍
 <img align="right" src="https://raw.githubusercontent.com/eu-larissasouza/eu-larissasouza/main/Vetor%20Working%20Woman%20Programmer.png" height =" 220 " alt="Vetor Working Woman Programmer">
-<p align="justify"> Muito prazer!! Meu nome é <strong>Larissa Souza</strong>, tenho 18 anos e atualmente sou estudante do curso técnico em Informática. Sinceramente, tenho muito orgulho da escolha que fiz de iniciar o curso técnico, pois foi um divisor de águas na minha vida e me fez descobrir uma paixão por tecnologia que eu nem imaginava que existia. Me considero uma pessoa muito curiosa e ativa, então desde que iniciei o curso tenho buscado me aprimorar cada vez mais, através de cursos complementares, eventos, palestras e projetos. Assim me interessei fortemente pelo processo de desenvolvimento de softwares. Meu objetivo é ingressar no mercado de trabalho como Engenheira de Software futuramente.</p>
+<p align="justify"> Muito prazer!! Meu nome é <strong>Larissa Souza</strong>, tenho 19 anos e sou formada no curso técnico em Informática pelo IFSP. Apaixonada por tecnologia, programação e chocolate, me considero uma pessoa muito feliz, curiosa e ativa, que está sempre buscando se aprimorar em busca de seus objetivos, mas também uma amiga que vai parar tudo para te ouvir se preciso... Bem vindo ao meu mundo! </p>
 
-## 📱 Venha me conhecer
+## 📱 Hey, venha me conhecer e tomar um cafézin
 <div> 
   <a href="https://www.linkedin.com/in/larissa-a-souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt =" Larissa Souza " target="_blank">
   </a> 
