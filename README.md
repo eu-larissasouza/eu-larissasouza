@@ -8,26 +8,12 @@
   </a> 
   <a href="https://instagram.com/_larissa.a.souza" target="_blank"><img src="https://img.shields.io/badge/-Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" alt =" Larissa Souza " target="_blank">
   </a>
-  <a href = "mailto:larissa.alves.souza@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt =" Larissa Souza " target="_blank">
-  </a>
 </div>
 
-## ⚙️ Skills
+## ⚙️ Tecnologias que estou acostumada
 <div style="display: inline_block">
-  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" src ="https://raw.githubusercontent.com/eu-larissasouza/eu-larissasouza/main/icon/figma-original.svg "alt =" figma "width =" 40 "height =" 40 "/> 
-    <img align="center" src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg "alt =" mysql "width =" 40 "height =" 40 "/> 
-</div>
-
-## 📚 Skills em desenvolvimento
-<div style="display: inline_block">
- 
-  <img align="center" alt="typescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="nodejs" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="React" height="40" width="40" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="Java" height="40" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </div>
 
 ## 💻 Minha Atividade
