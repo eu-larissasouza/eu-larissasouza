@@ -5,16 +5,16 @@
 
 <div align="left">
 <h2>Habilidades:</h2>
-<h3 style="display: inline_block">
+<p style="display: inline_block">
 #Excel   #SQL   #PL/SQL  #React   #Java   #HTML   #CSS   #JavaScript   #Figma
-</h3>
+</p>
 </div>
 
 <div align="left">
 <h2>Estudando atualmente:</h2>
-<h3 style="display: inline_block">
+<p style="display: inline_block">
 #AnáliseDeDados   #Python   #DataViz   #PowerBI   #TratamentoDeDados   #PreparaçãoDeDados   #Estatística 
-</h3>
+</p>
 </div>
 
 ## Conecte-se comigo
