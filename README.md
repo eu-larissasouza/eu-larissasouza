@@ -1,29 +1,31 @@
-## 🤍 Seja bem vindo(a) ao meu GitHub 🤍
-<img align="right" src="https://raw.githubusercontent.com/eu-larissasouza/eu-larissasouza/main/Vetor%20Working%20Woman%20Programmer.png" height =" 220 " alt="Vetor Working Woman Programmer">
-<p align="justify"> Muito prazer!! Meu nome é <strong>Larissa Souza</strong>, tenho 19 anos e sou formada no curso técnico em Informática pelo IFSP. Apaixonada por tecnologia, programação e chocolate, me considero uma pessoa muito feliz, curiosa e ativa, que está sempre buscando se aprimorar em busca de seus objetivos, mas também uma amiga que vai parar tudo para te ouvir se preciso... Bem vindo ao meu mundo! </p>
+## Olá! Bem vindo(a) !!!
 
-## 📱 Hey, venha me conhecer e tomar um cafézin
+<img align="right" src="image/computer-illustration.png" height =" 220 " alt="Computer Illustration">
+<p align="justify"> Eu sou a <strong>Larissa</strong>, tenho 19 anos e sou graduanda em Sistemas de Informação na FIAP. Sou técnica em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. Apaixonada pelos dados e pela computação, vejo a tecnologia como ferramenta a ser acessível e aliada para melhorar a qualidade de vida das pessoas. Bem vindo ao meu mundo! </p>
+
+<div align="left">
+<h2>Habilidades:</h2>
+<h3 style="display: inline_block">
+#Excel   #SQL   #PL/SQL  #React   #Java   #HTML   #CSS   #JavaScript   #Figma
+</h3>
+</div>
+
+<div align="left">
+<h2>Estudando atualmente:</h2>
+<h3 style="display: inline_block">
+#AnáliseDeDados   #Python   #DataViz   #PowerBI   #TratamentoDeDados   #PreparaçãoDeDados   #Estatística 
+</h3>
+</div>
+
+## Conecte-se comigo
+
 <div> 
   <a href="https://www.linkedin.com/in/larissa-a-souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt =" Larissa Souza " target="_blank">
   </a> 
   <a href="https://instagram.com/_larissa.a.souza" target="_blank"><img src="https://img.shields.io/badge/-Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" alt =" Larissa Souza " target="_blank">
   </a>
+  <a href="mailto:larissa.alves.souza@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:larissa.alves.souza@outlook.com" alt =" Larissa Souza " target="_blank">
+  </a>
 </div>
-
-## ⚙️ Tecnologias que estou acostumada
-<div style="display: inline_block">
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-</div>
-
-## 💻 Minha Atividade
-<p align = "center">
-    <a href="https://github.com/eu-larissasouza">
-        <img src="https://github-readme-stats.vercel.app/api?username=eu-larissasouza&show_icons=true&theme=radical " align="center"/>
-    </a>
-    <a href="https://github.com/eu-larissasouza">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=eu-larissasouza&theme=radical" align="center"/>
-    </a>
-</p>
 
 ![Snake animation](https://github.com/eu-larissasouza/eu-larissasouza/blob/output/github-contribution-grid-snake.svg)
