@@ -3,7 +3,7 @@
 <img align="right" src="image/computer-illustration.png" height =" 220 " alt="Computer Illustration">
 <div align="left">
 <p align="justify"> Eu sou a <strong>Larissa</strong>, tenho 19 anos e sou graduanda em Sistemas de Informação na FIAP. Sou técnica em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. Apaixonada pelos dados e pela computação, vejo a tecnologia como ferramenta a ser acessível e aliada para melhorar a qualidade de vida das pessoas. Bem vindo ao meu mundo! </p>
-  <a href="larissasouza.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Meu Portfolio-30008a?style=for-the-badge&logoColor=white" alt =" Larissa Souza " target="_blank">
+  <a href="https://larissasouza.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Meu Portfolio-30008a?style=for-the-badge&logoColor=white" alt =" Larissa Souza " target="_blank">
   </a>
 </div>
 
