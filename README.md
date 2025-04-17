@@ -1,11 +1,8 @@
-## Olá! Bem vindo(a) !!!
+## Apaixonada por tecnologia e pelo seu poder de transformar vidas!  🌟
 
 <img align="right" src="image/computer-illustration.png" height =" 220 " alt="Computer Illustration">
 <div align="left">
-<p align="justify"> 🌟 Apaixonada por tecnologia e pelo seu poder de transformar vidas! 
-🎓 Graduanda em Sistemas de Informação na FIAP e com formação técnica em Informática pelo IFSP, tenho experiencia em desenvolvimento backend em Java.
-👥 Acredito que a tecnologia deve ser acessível a todos e utilizada para facilitar a vida das pessoas. Adoro me envolver com a comunidade tech, participando de eventos e trocas de experiências e no tempo livre, sou voluntaria em Comunicação, criando conteúdo, editando fotos e vídeos! 📸
-🔎 Busco constantemente aprender e me aperfeiçoar para contribuir com projetos inovadores e que gerem impacto positivo na sociedade, porque assim como Steve Jobs, acredito que "a tecnologia move o mundo". 🚀 </p>
+<p align="justify"> Graduanda em Sistemas de Informação na FIAP e com formação técnica em Informática pelo IFSP, tenho experiencia em desenvolvimento backend em Java. Busco constantemente aprender e me aperfeiçoar para contribuir com projetos inovadores e que gerem impacto positivo na sociedade, porque assim como Steve Jobs, acredito que "a tecnologia move o mundo". 🚀 </p>
   <a href="https://larissasouza.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Meu Portfolio-30008a?style=for-the-badge&logoColor=white" alt =" Larissa Souza " target="_blank">
   </a>
 </div>
