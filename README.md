@@ -2,7 +2,10 @@
 
 <img align="right" src="image/computer-illustration.png" height =" 220 " alt="Computer Illustration">
 <div align="left">
-<p align="justify"> Eu sou a <strong>Larissa</strong>, tenho 20 anos e sou graduanda em Sistemas de Informação na FIAP. Sou técnica em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia de São Paulo. Apaixonada pelos dados e pela computação, vejo a tecnologia como ferramenta a ser acessível e aliada para melhorar a qualidade de vida das pessoas. Bem vindo ao meu mundo! </p>
+<p align="justify"> 🌟 Apaixonada por tecnologia e pelo seu poder de transformar vidas! 
+🎓 Graduanda em Sistemas de Informação na FIAP e com formação técnica em Informática pelo IFSP, tenho experiencia em desenvolvimento backend em Java.
+👥 Acredito que a tecnologia deve ser acessível a todos e utilizada para facilitar a vida das pessoas. Adoro me envolver com a comunidade tech, participando de eventos e trocas de experiências e no tempo livre, sou voluntaria em Comunicação, criando conteúdo, editando fotos e vídeos! 📸
+🔎 Busco constantemente aprender e me aperfeiçoar para contribuir com projetos inovadores e que gerem impacto positivo na sociedade, porque assim como Steve Jobs, acredito que "a tecnologia move o mundo". 🚀 </p>
   <a href="https://larissasouza.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Meu Portfolio-30008a?style=for-the-badge&logoColor=white" alt =" Larissa Souza " target="_blank">
   </a>
 </div>
@@ -10,14 +13,14 @@
 <div align="left">
 <h2>Habilidades:</h2>
 <p style="display: inline_block">
-#AnáliseDeDados   #Excel   #SQL   #PL/SQL  #React   #HTML   #CSS   #JavaScript   #Figma
+#Java   #Resolução de problemas   #SQL   #PL/SQL  #React   #HTML   #CSS   #JavaScript   #Figma
 </p>
 </div>
 
 <div align="left">
 <h2>Estudando atualmente:</h2>
 <p style="display: inline_block">
-#Python   #Java   #AWS   #EngenhariaDeSoftware
+#Python   #Kotlin   #AWS   #Cloud   #Spring Boot  #EngenhariaDeSoftware
 </p>
 </div>
 
@@ -26,7 +29,7 @@
 <div> 
   <a href="https://www.linkedin.com/in/larissa-a-souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt =" Larissa Souza " target="_blank">
   </a> 
-  <a href="https://instagram.com/_larissa.a.souza" target="_blank"><img src="https://img.shields.io/badge/-Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" alt =" Larissa Souza " target="_blank">
+  <a href="https://instagram.com/larybytes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" alt =" Larissa Souza " target="_blank">
   </a>
   <a href="mailto:larissa.alves.souza@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:larissa.alves.souza@outlook.com" alt =" Larissa Souza " target="_blank">
   </a>
