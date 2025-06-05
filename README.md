@@ -4,10 +4,10 @@
 
 <div align="left">
   <p align="justify">
-    Graduanda em **Sistemas de Informação na FIAP** e com formação técnica em Informática pelo IFSP, sou desenvolvedora focada em **Backend** e minhas stacks atualmente são **Golang** e **Java**.
+    Graduanda em <b>Sistemas de Informação na FIAP</b> e com formação técnica em Informática pelo IFSP, sou desenvolvedora focada em <b>Backend</b> e minhas stacks atualmente são <b>Golang</b> e <b>Java</b>.
   </p>
   <p align="justify">
-    Assim como Steve Jobs, acredito que "a tecnologia move o mundo" e adoro me envolver com a comunidade tech, participando de eventos e trocando experiências. No meu tempo livre, sou voluntária em Comunicação, criando conteúdo e editando fotos e vídeos! 📸
+    Assim como Steve Jobs, acredito que <b>"a tecnologia move o mundo"</b> e adoro me envolver com a comunidade tech, participando de eventos e trocando experiências. No meu tempo livre, sou voluntária em Comunicação, criando conteúdo e editando fotos e vídeos! 📸
   </p>
   <a href="https://larissasouza.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Meu Portfolio-30008a?style=for-the-badge&logoColor=white" alt="Link para o Portfólio de Larissa Souza">
@@ -20,9 +20,9 @@
 
 <p style="display: inline_block">
   <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Engenharia%20de%20Software-A020F0?style=for-the-badge&logoColor=white" alt="Engenharia de Software">
-  <img src="https://img.shields.io/badge/Resolução%20de%20Problemas-FF0000?style=for-the-badge&logoColor=white" alt="Resolução de Problemas">
+  <img src="https://img.shields.io/badge/Java-e00000?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Engenharia%20de%20Software-FFE600?style=for-the-badge&logoColor=white" alt="Engenharia de Software">
+  <img src="https://img.shields.io/badge/Resolução%20de%20Problemas-2d3277?style=for-the-badge&logoColor=white" alt="Resolução de Problemas">
 </p>
 
 ---
