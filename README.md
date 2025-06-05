@@ -22,9 +22,9 @@
 
 <p style="display: inline_block">
   <img src="https://img.shields.io/badge/Golang-d07895?style=for-the-badge&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/Java-bf58c2?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Engenharia%20de%20Software-3919bb?style=for-the-badge&logoColor=white" alt="Engenharia de Software">
-  <img src="https://img.shields.io/badge/Resolução%20de%20Problemas-25067d?style=for-the-badge&logoColor=white" alt="Resolução de Problemas">
+  <img src="https://img.shields.io/badge/Java-bf35c2?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Engenharia%20de%20Software-8018da?style=for-the-badge&logoColor=white" alt="Engenharia de Software">
+  <img src="https://img.shields.io/badge/Resolução%20de%20Problemas-3919bb?style=for-the-badge&logoColor=white" alt="Resolução de Problemas">
 </p>
 
 ---
