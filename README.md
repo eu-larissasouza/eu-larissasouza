@@ -9,9 +9,11 @@
   <p align="justify">
     Assim como Steve Jobs, acredito que <b>"a tecnologia move o mundo"</b> e adoro me envolver com a comunidade tech, participando de eventos e trocando experiências. No meu tempo livre, sou voluntária em Comunicação, criando conteúdo e editando fotos e vídeos! 📸
   </p>
+  <!--
   <a href="https://larissasouza.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Meu Portfolio-30008a?style=for-the-badge&logoColor=white" alt="Link para o Portfólio de Larissa Souza">
   </a>
+  -->
 </div>
 
 ---
