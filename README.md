@@ -4,7 +4,7 @@
 
 <div align="left">
   <p align="justify">
-    Graduanda em <b>Sistemas de Informação na FIAP</b> e com formação técnica em Informática pelo IFSP, atuo como Software Developer no Mercado Livre, focada em <b>Backend</b> e minhas stacks atualmente são <b>Golang</b> e <b>Java</b>.
+    Graduanda em <b>Sistemas de Informação na FIAP</b> e com formação técnica em Informática pelo IFSP, atuo desenvolvedora focada em <b>Backend</b> e minhas stacks atualmente são <b>Golang</b> e <b>Java</b>.
   </p>
   <p align="justify">
     Assim como Steve Jobs, acredito que <b>"a tecnologia move o mundo"</b> e adoro me envolver com a comunidade tech, participando de eventos e trocando experiências. No meu tempo livre, sou voluntária em Comunicação, criando conteúdo e editando fotos e vídeos! 📸
