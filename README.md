@@ -4,10 +4,10 @@
 
 <div align="left">
   <p align="justify">
-    Graduanda em <b>Sistemas de Informação na FIAP</b> e com formação técnica em Informática pelo IFSP, atuo desenvolvedora focada em <b>Backend</b> e minhas stacks atualmente são <b>Golang</b> e <b>Java</b>.
+    Graduanda em <b>Análise e Desenvolvimento de Sistemas pelo SENAC</b> e com formação técnica em Informática pelo IFSP, sou uma desenvolvedora focada em <b>Backend</b> e minhas stacks atualmente são <b>Java</b> e <b>Golang</b> 
   </p>
   <p align="justify">
-    Assim como Steve Jobs, acredito que <b>"a tecnologia move o mundo"</b> e adoro me envolver com a comunidade tech, participando de eventos e trocando experiências. No meu tempo livre, sou voluntária em Comunicação, criando conteúdo e editando fotos e vídeos! 📸
+    Assim como Steve Jobs, acredito que <b>"a tecnologia move o mundo para frente"</b> e adoro me envolver com a comunidade tech, participando de eventos e trocando experiências. No meu tempo livre, sou voluntária em Comunicação, criando conteúdo e editando fotos e vídeos! 📸
   </p>
   <!--
   <a href="https://larissasouza.vercel.app/" target="_blank">
@@ -21,10 +21,11 @@
 ### Habilidades:
 
 <p style="display: inline_block">
-  <img src="https://img.shields.io/badge/Golang-d07895?style=for-the-badge&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/Java-bf35c2?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Golang-d07895?style=for-the-badge&logoColor=white" alt="Golang">
   <img src="https://img.shields.io/badge/Engenharia%20de%20Software-8018da?style=for-the-badge&logoColor=white" alt="Engenharia de Software">
   <img src="https://img.shields.io/badge/Resolução%20de%20Problemas-3919bb?style=for-the-badge&logoColor=white" alt="Resolução de Problemas">
+  <img src="https://img.shields.io/badge/Resolução%20de%20Problemas-3919bb?style=for-the-badge&logoColor=white" alt="Visão Analitica">
 </p>
 
 ---
@@ -35,7 +36,7 @@
   <a href="https://www.linkedin.com/in/larissa-a-souza/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Larissa Souza">
   </a>
-  <a href="https://instagram.com/larybytes" target="_blank">
+  <a href="https://instagram.com/_lary.souza._" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram de Larissa Souza">
   </a>
   <a href="mailto:larissa.alves.souza@outlook.com" target="_blank">
