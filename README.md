@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Golang-d07895?style=for-the-badge&logoColor=white" alt="Golang">
   <img src="https://img.shields.io/badge/Engenharia%20de%20Software-8018da?style=for-the-badge&logoColor=white" alt="Engenharia de Software">
   <img src="https://img.shields.io/badge/Resolução%20de%20Problemas-3919bb?style=for-the-badge&logoColor=white" alt="Resolução de Problemas">
-  <img src="https://img.shields.io/badge/Visão%20Analítica-3919bb?style=for-the-badge&logoColor=white" alt="Visão Analitica">
+  <img src="https://img.shields.io/badge/Visão%20Analítica-c11c84?style=for-the-badge&logoColor=white" alt="Visão Analitica">
 </p>
 
 ---
