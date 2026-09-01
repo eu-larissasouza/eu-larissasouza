@@ -9,11 +9,9 @@
   <p align="justify">
     Assim como Steve Jobs, acredito que <b>"a tecnologia move o mundo para frente"</b> e adoro me envolver com a comunidade tech, participando de eventos e trocando experiências. No meu tempo livre, sou voluntária em Comunicação, criando conteúdo e editando fotos e vídeos! 📸
   </p>
-  <!--
-  <a href="https://larissasouza.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Meu Portfolio-30008a?style=for-the-badge&logoColor=white" alt="Link para o Portfólio de Larissa Souza">
+  <a href="https://drive.google.com/file/d/1hKhqosqNli1CFUUztQdA1mxtVeU5f0If/view?usp=drivesdk" target="_blank">
+  <img src="https://img.shields.io/badge/Currículo-8018da?style=for-the-badge&logoColor=white" alt="Curriculo">
   </a>
-  -->
 </div>
 
 ---
@@ -25,12 +23,12 @@
   <img src="https://img.shields.io/badge/Golang-d07895?style=for-the-badge&logoColor=white" alt="Golang">
   <img src="https://img.shields.io/badge/Engenharia%20de%20Software-8018da?style=for-the-badge&logoColor=white" alt="Engenharia de Software">
   <img src="https://img.shields.io/badge/Resolução%20de%20Problemas-3919bb?style=for-the-badge&logoColor=white" alt="Resolução de Problemas">
-  <img src="https://img.shields.io/badge/Resolução%20de%20Problemas-3919bb?style=for-the-badge&logoColor=white" alt="Visão Analitica">
+  <img src="https://img.shields.io/badge/Visão%20Analítica-3919bb?style=for-the-badge&logoColor=white" alt="Visão Analitica">
 </p>
 
 ---
 
-### Bora se conectar?
+### Quer saber mais? Bora se conectar!
 
 <div>
   <a href="https://www.linkedin.com/in/larissa-a-souza/" target="_blank">
