@@ -1,45 +1,55 @@
-## Apaixonada por tecnologia e seu poder de transformar vidas! 🌟
+<h1 align="center">Prazer, Larissa 🌟</h1>
 
-<img align="right" src="image/computer-illustration.png" height="220" alt="Ilustração de computador">
+<p align="center">
+  <em>Software Engineer • Backend • Tech Community</em>
+</p>
 
-<div align="left">
-  <p align="justify">
-    Graduanda em <b>Análise e Desenvolvimento de Sistemas pelo SENAC</b> e com formação técnica em Informática pelo IFSP, sou uma desenvolvedora focada em <b>Backend</b> e minhas stacks atualmente são <b>Java</b> e <b>Golang</b> 
-  </p>
-  <p align="justify">
-    Assim como Steve Jobs, acredito que <b>"a tecnologia move o mundo para frente"</b> e adoro me envolver com a comunidade tech, participando de eventos e trocando experiências. No meu tempo livre, sou voluntária em Comunicação, criando conteúdo e editando fotos e vídeos! 📸
-  </p>
-  <a href="https://drive.google.com/file/d/1hKhqosqNli1CFUUztQdA1mxtVeU5f0If/view?usp=drivesdk" target="_blank">
-  <img src="https://img.shields.io/badge/Currículo-8018da?style=for-the-badge&logoColor=white" alt="Curriculo">
-  </a>
-</div>
+<img align="right" src="image/computer-illustration.png" height="155" alt="Ilustração de computador">
+
+<p align="left">
+  Sou engenheira de software com foco em <b>Backend</b>, atualmente trabalhando com <b>Java</b> e <b>Go</b> no Mercado Livre.
+</p>
+
+<p align="left">
+  Gosto de aprender, construir e compartilhar conhecimento com a <b>comunidade tech</b>.
+</p>
+
+<br clear="right"/>
 
 ---
 
-### Habilidades:
+### Tech Stack
 
-<p style="display: inline_block">
-  <img src="https://img.shields.io/badge/Java-bf35c2?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Golang-d07895?style=for-the-badge&logoColor=white" alt="Golang">
-  <img src="https://img.shields.io/badge/Engenharia%20de%20Software-8018da?style=for-the-badge&logoColor=white" alt="Engenharia de Software">
-  <img src="https://img.shields.io/badge/Resolução%20de%20Problemas-3919bb?style=for-the-badge&logoColor=white" alt="Resolução de Problemas">
-  <img src="https://img.shields.io/badge/Visão%20Analítica-c11c84?style=for-the-badge&logoColor=white" alt="Visão Analitica">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" height="40" alt="Go"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" height="40" alt="Playwright"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git"/>
+</p>
+
+<p align="center">
+  <b>Backend</b> • <b>Reactive Programming</b> • <b>Test Automation</b> • <b>Observability</b>
 </p>
 
 ---
 
 ### Quer saber mais? Bora se conectar!
 
-<div>
-  <a href="https://www.linkedin.com/in/larissa-a-souza/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Larissa Souza">
+<p align="center">
+  <a href="https://www.linkedin.com/in/larissa-a-souza/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
   </a>
   <a href="https://instagram.com/_lary.souza._" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram de Larissa Souza">
+    <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=flat-square&logo=instagram&logoColor=white">
   </a>
-  <a href="mailto:larissa.alves.souza@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:larissa.alves.souza@outlook.com" alt="Email de Larissa Souza">
+  <a href="mailto:larissa.alves.souza@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white">
   </a>
-</div>
+</p>
 
-![Snake animation](https://github.com/eu-larissasouza/eu-larissasouza/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <em>Keep building. Keep learning. Keep sharing.</em>
+</p>
