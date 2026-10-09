@@ -39,14 +39,29 @@
 ### Quer saber mais? Bora se conectar!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/larissa-a-souza/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+  <a href="https://larysouza.vercel.app/">
+    <img src="https://img.shields.io/badge/Meu%20portf%C3%B3lio-6A2BDB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Meu portfólio">
   </a>
-  <a href="https://instagram.com/_lary.souza._" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=flat-square&logo=instagram&logoColor=white">
+  <a href="https://linkme.bio/_lary.souza._">
+    <img src="https://img.shields.io/badge/Link%20na%20bio-E8338C?style=for-the-badge&logo=linktree&logoColor=white" alt="Link na bio">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/larissa-a-souza/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/_lary.souza._">
+    <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.youtube.com/@lary.souzaa">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://dev.to/larysouza">
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="DEV.to">
   </a>
   <a href="mailto:larissa.alves.souza@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email">
   </a>
 </p>
 
